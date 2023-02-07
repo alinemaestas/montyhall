@@ -1,0 +1,19 @@
+Package: montyhall
+Title: MONTY HALL GAME PLUS LOOPS
+Version: 0.0.0.9000
+Authors@R: 
+    person("ALINE", "MAESTAS", , "amaesta5@asu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The game setup replicates the game on the TV show "Let's
+	Make a Deal" where there are three doors for a contestant
+	to choose from, one of which has a car behind it and two 
+	have goats. The contestant selects a door, then the host
+	opens a door to reveal a goat, and then the contestant is
+	given an opportunity to change doors. The contestant wins when they open a door with a car.
+Depends: 
+   dplyr
+License: What license it uses
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+
